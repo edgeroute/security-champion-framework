@@ -1,1 +1,2 @@
-# security-champion-framework
+# The Security Champion Framework
+
