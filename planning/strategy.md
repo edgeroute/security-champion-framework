@@ -20,7 +20,7 @@ The Strategy sets the tone for your Security Champions program, identifying the 
 * Get on board and scope a program.
   
 ## Benefit
-Read this framework to capture the benefits you'll experience by launching a Security Champion program.
+* Read this framework to capture the benefits you'll experience by launching a Security Champion program.
 
 # Maturity 1 - Program Objective
 
@@ -28,7 +28,7 @@ Read this framework to capture the benefits you'll experience by launching a Sec
 * Define and publicize a program objective. 
 
 ## Benefit
-Communicates to everyone what we are trying to achieve.
+* Communicates to everyone what we are trying to achieve.
 
 # Maturity 2 - Yearly goals, program vision, and an acceptance and tracking tool.
 
@@ -38,9 +38,8 @@ Communicates to everyone what we are trying to achieve.
 * Provide an acceptance and tracking tool for the Champion and Manager goals.
 
 ## Benefit
-Yearly goals and opt-ins protect the Champion’s resource commitments. Most of the time, Champions perform their security duties with a shared slice of their time. By setting yearly goals and facilitating an opt-in where Champions and the Manager acknowledge the signup, you prevent uncomfortable conversations. Things can be difficult if the Champion and manager are not in sync regarding resources.
-
-Represent how security champions are business enablers and partner with a strong Executive Sponsor that catches the Champion program vision.
+* Yearly goals and opt-ins protect the Champion’s resource commitments. Most of the time, Champions perform their security duties with a shared slice of their time. By setting yearly goals and facilitating an opt-in where Champions and the Manager acknowledge the signup, you prevent uncomfortable conversations. Things can be difficult if the Champion and manager are not in sync regarding resources.
+* Represent how security champions are business enablers and partner with a strong Executive Sponsor that catches the Champion program vision.
 
 # Maturity 3 - Executive Sponsor buy-in.
 
@@ -48,4 +47,4 @@ Represent how security champions are business enablers and partner with a strong
 * Achieve Executive Sponsor buy-in for program vision.
 
 ## Benefit
-When an Executive Sponsor is on board with the Champions program, they can assist with spreading awareness within the Executive Suite and help with any dedicated budget required to execute the program.
+* When an Executive Sponsor is on board with the Champions program, they can assist with spreading awareness within the Executive Suite and help with any dedicated budget required to execute the program.
