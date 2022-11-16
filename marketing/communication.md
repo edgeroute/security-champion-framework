@@ -1,5 +1,5 @@
 # Short Description
-Blah
+Communication: how are you going to keep the rest of the organization apprised of what the Champions are doing?
 
 # Long Description
 Blah
@@ -8,10 +8,15 @@ Blah
 
 | Level | Name | Validation |
 |:---|:---|:---|
-| Maturity 0 | Blah | Blah validation
-| Maturity 1 | Blah | Blah validation
-| Maturity 2 | Blah | Blah validation
-| Maturity 3 | Blah | Blah validation
+| Maturity 0 | No communication. | Blah validation
+| Maturity 1 | Champions. | Blah validation
+| Maturity 2 | Direct Managers. | Blah validation
+| Maturity 3 | Executives. | Blah validation
+
+Regular communication with Security Champions.
+Regular communication with Champion Direct Managers.
+Regular communication with Executives.
+
 
 &nbsp;
 # Maturity 0 - Blah
@@ -28,7 +33,7 @@ Blah
 * Blah 
 
 ## Benefit
-* Blah
+* Champions are in the loop on how they can participate more deeply in the community.
 
 # Maturity 2 - Blah
 
@@ -36,7 +41,7 @@ Blah
 * Blah
 
 ## Benefit
-* Blah
+* Communicating about the contributions your Champions make demonstrates the return on investment to the Manager for providing resources.
 
 # Maturity 3 - Blah
 
@@ -44,4 +49,4 @@ Blah
 * Blah
 
 ## Benefit
-* Blah
+* Executives understand ROI.

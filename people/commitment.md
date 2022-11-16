@@ -1,5 +1,5 @@
 # Short Description
-Blah
+Commitment: how much time are your champions spending on security (average)?
 
 # Long Description
 Blah
@@ -8,10 +8,10 @@ Blah
 
 | Level | Name | Validation |
 |:---|:---|:---|
-| Maturity 0 | Blah | Blah validation
-| Maturity 1 | Blah | Blah validation
-| Maturity 2 | Blah | Blah validation
-| Maturity 3 | Blah | Blah validation
+| Maturity 0 | None. | Blah validation
+| Maturity 1 | One. | Blah validation
+| Maturity 2 | Two to Four. | Blah validation
+| Maturity 3 | Eight. | Blah validation
 
 &nbsp;
 # Maturity 0 - Blah
