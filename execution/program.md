@@ -1,5 +1,5 @@
 # Short Description
-Blah
+Program: what are you going to offer them?
 
 # Long Description
 Blah
@@ -8,40 +8,48 @@ Blah
 
 | Level | Name | Validation |
 |:---|:---|:---|
-| Maturity 0 | Blah | Blah validation
-| Maturity 1 | Blah | Blah validation
-| Maturity 2 | Blah | Blah validation
-| Maturity 3 | Blah | Blah validation
+| Maturity 0 | Nothing. | Blah validation
+| Maturity 1 | Monthly Training. | Blah validation
+| Maturity 2 | Special Events. | Blah validation
+| Maturity 3 | Deep effort. | Blah validation
 
 &nbsp;
-# Maturity 0 - Blah
+# Maturity 0 - Nothing
+
+No programmatic elements; everything is ad hoc.
 
 ## Activity
 * Blah
   
 ## Benefit
-* Blah
+* None
 
-# Maturity 1 - Blah
+# Maturity 1 - Monthly Training
+
+Monthly training and connection events
 
 ## Activity
 * Blah 
 
 ## Benefit
-* Blah
+* Monthly training builds a cadence within the community.
 
-# Maturity 2 - Blah
+# Maturity 2 - Special Events
 
-## Activity
-* Blah
-
-## Benefit
-* Blah
-
-# Maturity 3 - Blah
+Special training webinars, internal CTFs, and security days.
 
 ## Activity
 * Blah
 
 ## Benefit
-* **Blah**
+* Growing the knowledge and connection of the community.
+
+# Maturity 3 - Deep effort
+
+Internal conferences, Special training (CSSLP), and sponsorship for External Conferences and Advanced degrees.
+
+## Activity
+* Blah
+
+## Benefit
+* Provides true rewards to those that dedicate their time to building security community.

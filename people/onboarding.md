@@ -9,7 +9,7 @@ When a new person becomes a Security Champion, they likely have no idea what to 
 | Level | Name | Validation |
 |:---|:---|:---|
 | Maturity 0 | No onboarding process. | Nothing to validate.
-| Maturity 1 | Individual onboarding. | Review the simple onboarding process.
+| Maturity 1 | Individual orientation. | Review the simple onboarding process.
 | Maturity 2 | Team-focused orientation and training. | Review the training materials, and the champion buddy system.
 | Maturity 3 | Certified Security Champion. | Review the certification process, and discuss the value generated with a selection of certified Champions.
 
@@ -22,7 +22,7 @@ When a new person becomes a Security Champion, they likely have no idea what to 
 ## Benefit
 * Blah
 
-# Maturity 1 - Blah
+# Maturity 1 - Individual orientation.
 
 ## Activity
 * Blah 
@@ -30,7 +30,7 @@ When a new person becomes a Security Champion, they likely have no idea what to 
 ## Benefit
 * Blah
 
-# Maturity 2 - Blah
+# Maturity 2 - Team-focused orientation and training.
 
 ## Activity
 * Blah

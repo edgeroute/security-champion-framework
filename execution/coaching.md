@@ -1,5 +1,5 @@
 # Short Description
-Blah
+Coaching: how will you provide consulting and one to few training?
 
 # Long Description
 Blah
@@ -8,40 +8,48 @@ Blah
 
 | Level | Name | Validation |
 |:---|:---|:---|
-| Maturity 0 | Blah | Blah validation
-| Maturity 1 | Blah | Blah validation
-| Maturity 2 | Blah | Blah validation
-| Maturity 3 | Blah | Blah validation
+| Maturity 0 | No coaching | Blah validation
+| Maturity 1 | Volunteer coaches. | Blah validation
+| Maturity 2 | Staff coaches. | Blah validation
+| Maturity 3 | Dedicated coaches. | Blah validation
 
 &nbsp;
-# Maturity 0 - Blah
+# Maturity 0 - No coaching
+
+No coaching occurs.
 
 ## Activity
 * Blah
   
 ## Benefit
-* Blah
+* None
 
-# Maturity 1 - Blah
+# Maturity 1 - Volunteer coaches
+
+Volunteer coaches are available.
 
 ## Activity
 * Blah 
 
 ## Benefit
-* Blah
+* Coaching is occurring, but coaches are fitting it into already busy schedules.
 
-# Maturity 2 - Blah
+# Maturity 2 - Staff coaches
 
-## Activity
-* Blah
-
-## Benefit
-* Blah
-
-# Maturity 3 - Blah
+Staff coaches are available.
 
 ## Activity
 * Blah
 
 ## Benefit
+* Dedicated coaches full time jobs are to coach.
+
+# Maturity 3 - Dedicated coaches
+
+Coaches are dedicated and assigned to specific business areas.
+
+## Activity
 * Blah
+
+## Benefit
+* Assigned coaches provide more time and coverage for the entire team.

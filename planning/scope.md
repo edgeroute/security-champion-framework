@@ -14,7 +14,7 @@ Blah
 | Maturity 3 | Executives and Managers | Blah validation
 
 &nbsp;
-# Maturity 0 - Blah
+# Maturity 0 - Developers only
 
 ## Activity
 * Blah
@@ -22,7 +22,7 @@ Blah
 ## Benefit
 * Developers are the center and are a great start.
 
-# Maturity 1 - Blah
+# Maturity 1 - Product adjacent
 
 ## Activity
 * Blah 
@@ -30,7 +30,7 @@ Blah
 ## Benefit
 * Expanding to the product adjacent lowers security friction.
 
-# Maturity 2 - Blah
+# Maturity 2 - Product Managers
 
 ## Activity
 * Blah
@@ -38,7 +38,7 @@ Blah
 ## Benefit
 * Product drives what we build, and when can drastically lower security friction by specifying that security is built in.
 
-# Maturity 3 - Blah
+# Maturity 3 - Executives and Managers
 
 ## Activity
 * Blah

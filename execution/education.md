@@ -1,5 +1,5 @@
 # Short Description
-Blah
+Education: how will you train the community at scale?
 
 # Long Description
 Blah
@@ -8,40 +8,41 @@ Blah
 
 | Level | Name | Validation |
 |:---|:---|:---|
-| Maturity 0 | Blah | Blah validation
-| Maturity 1 | Blah | Blah validation
-| Maturity 2 | Blah | Blah validation
-| Maturity 3 | Blah | Blah validation
+| Maturity 0 | No Security Education. | Blah validation
+| Maturity 1 | Ad hoc security training. | Blah validation
+| Maturity 2 | Regular training. | Blah validation
+| Maturity 3 | Creative training. | Blah validation
 
 &nbsp;
-# Maturity 0 - Blah
+# Maturity 0 - No security education.
+No security education for Champions.
 
 ## Activity
 * Blah
   
 ## Benefit
-* Blah
+* None
 
-# Maturity 1 - Blah
-
+# Maturity 1 - Ad hoc security trainings
+Ad hoc security trainings.
 ## Activity
 * Blah 
 
 ## Benefit
-* Blah
+* Some training is occurring, but we aren’t catching everyone.
 
-# Maturity 2 - Blah
-
+# Maturity 2 - Regular training
+Regular security training for all Champions.
 ## Activity
 * Blah
 
 ## Benefit
-* Blah
+* Spreading education across the community provides base levels of knowledge and experience.
 
-# Maturity 3 - Blah
-
+# Maturity 3 - Creative training
+Hack-a-thons and build it, break it, fix it contests.
 ## Activity
 * Blah
 
 ## Benefit
-* Blah
+* Collaborative experiences to learn from each other.

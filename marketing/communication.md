@@ -9,17 +9,12 @@ Blah
 | Level | Name | Validation |
 |:---|:---|:---|
 | Maturity 0 | No communication. | Blah validation
-| Maturity 1 | Champions. | Blah validation
+| Maturity 1 | Champions only. | Blah validation
 | Maturity 2 | Direct Managers. | Blah validation
 | Maturity 3 | Executives. | Blah validation
 
-Regular communication with Security Champions.
-Regular communication with Champion Direct Managers.
-Regular communication with Executives.
-
-
 &nbsp;
-# Maturity 0 - Blah
+# Maturity 0 - No communication
 
 ## Activity
 * Blah
@@ -27,7 +22,7 @@ Regular communication with Executives.
 ## Benefit
 * Blah
 
-# Maturity 1 - Blah
+# Maturity 1 - Champions only.
 
 ## Activity
 * Blah 
@@ -35,7 +30,7 @@ Regular communication with Executives.
 ## Benefit
 * Champions are in the loop on how they can participate more deeply in the community.
 
-# Maturity 2 - Blah
+# Maturity 2 - Direct Managers
 
 ## Activity
 * Blah
@@ -43,10 +38,16 @@ Regular communication with Executives.
 ## Benefit
 * Communicating about the contributions your Champions make demonstrates the return on investment to the Manager for providing resources.
 
-# Maturity 3 - Blah
+# Maturity 3 - Executives
 
 ## Activity
 * Blah
 
 ## Benefit
 * Executives understand ROI.
+
+# Tips
+* Update direct managers about the impact of individual Champions – over-communicate.
+* Send a high-level report for Executive staff, highlighting the contributions of their Org’s Champions.
+* Send a newsletter-style e-mail with updates.
+* Have a central Slack/Teams channel for questions
