@@ -1,10 +1,12 @@
-# Short Description
+# Metrics
+
+## Short Description
 Metrics and measurement: how do you demonstrate program ROI?
 
-# Long Description
+## Long Description
 Blah
 
-# Overview
+## Overview
 
 | Level | Name | Validation |
 |:---|:---|:---|
@@ -13,35 +15,36 @@ Blah
 | Maturity 2 | Intermediate metrics. | Blah validation
 | Maturity 3 | Action-based metrics. | Blah validation
 
-&nbsp;
-# Maturity 0 - No metrics
+## Maturity 0 - No metrics
 
-## Activity
+### Activity
 * Blah
   
-## Benefit
+### Benefit
 * Blah
 
-# Maturity 1 - Basic metrics
+## Maturity 1 - Basic metrics
 Basic — total count, business unit/product distribution, education levels, and Champion flaw density.
-## Activity
+### Activity
 * Blah 
 
-## Benefit
+### Benefit
 * Basic measurement shows program impact.
 
-# Maturity 2 - Intermediate metrics
+## Maturity 2 - Intermediate metrics
 Intermediate – Champion/Employee NPS (eNPS).
-## Activity
+### Activity
 * Blah
 
-## Benefit
+### Benefit
 * Being able to demonstrate the impact the community is having on the Champions themselves.
 
-# Maturity 3 - Action-based metrics
+## Maturity 3 - Action-based metrics
 Action-based — improve security using the results of Champion metrics and measurement.
-## Activity
+### Activity
 * Blah
 
-## Benefit
+### Benefit
 * Taking action to improve Security as a result of the community improves the organization.
+
+\pagebreak

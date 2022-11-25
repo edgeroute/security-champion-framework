@@ -1,10 +1,12 @@
-# Short Description
+# Recruitment
+
+## Short Description
 Recruitment: how are you going to find and sign-up new champions?
 
-# Long Description
+## Long Description
 Blah
 
-# Overview
+## Overview
 
 | Level | Name | Validation |
 |:---|:---|:---|
@@ -13,35 +15,36 @@ Blah
 | Maturity 2 | Mandatory assignment. | Blah validation
 | Maturity 3 | Volunteer. | Blah validation
 
-&nbsp;
-# Maturity 0 - No active recruitment efforts.
+## Maturity 0 - No active recruitment efforts.
 
-## Activity
+### Activity
 * Blah
   
-## Benefit
+### Benefit
 * None.
 
-# Maturity 1 - Rag tag crew of security passionate people.
+## Maturity 1 - Rag tag crew of security passionate people.
 
-## Activity
+### Activity
 * Blah 
 
-## Benefit
+### Benefit
 * You have a spark – the start of a strong security community.
 
-# Maturity 2 - Mandatory assignment.
+## Maturity 2 - Mandatory assignment.
 
-## Activity
+### Activity
 * Blah
 
-## Benefit
+### Benefit
 * Voluntold – your numbers are growing.
 
-# Maturity 3 - Volunteer opt-in.
+## Maturity 3 - Volunteer opt-in.
 
-## Activity
+### Activity
 * Blah
 
-## Benefit
+### Benefit
 * Ideal, as people are chasing you to join your program.
+
+\pagebreak

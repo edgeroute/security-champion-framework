@@ -1,10 +1,12 @@
-# Short Description
+# Commitment
+
+## Short Description
 Commitment: how much time are your champions spending on security (average)?
 
-# Long Description
+## Long Description
 Blah
 
-# Overview
+## Overview
 
 | Level | Name | Validation |
 |:---|:---|:---|
@@ -13,35 +15,36 @@ Blah
 | Maturity 2 | Two to Four. | Blah validation
 | Maturity 3 | Eight. | Blah validation
 
-&nbsp;
-# Maturity 0 - Blah
+## Maturity 0 - Blah
 
-## Activity
+### Activity
 * Blah
   
-## Benefit
+### Benefit
 * Blah
 
-# Maturity 1 - Blah
+## Maturity 1 - Blah
 
-## Activity
+### Activity
 * Blah 
 
-## Benefit
+### Benefit
 * Blah
 
-# Maturity 2 - Blah
+## Maturity 2 - Blah
 
-## Activity
+### Activity
 * Blah
 
-## Benefit
+### Benefit
 * Blah
 
-# Maturity 3 - Blah
+## Maturity 3 - Blah
 
-## Activity
+### Activity
 * Blah
 
-## Benefit
+### Benefit
 * Blah
+
+\pagebreak
