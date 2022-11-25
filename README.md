@@ -6,7 +6,9 @@ The Security Champion framework exists as a measuring stick and a roadmap. As a 
 
 Various names apply to the people that make up a security champion program. For example, organizations use different naming schemes for Champions, Advocates, Guild Members, Ninjas, and Agents.
 
-There is nothing in a name. Instead, call the people within your program by any of the monikers provided. Do call them something, but choosing the perfect phrase to describe the people does not define the success of your program.
+There is nothing in a name. Instead, call the people within your program by any of the monikers provided. Do call them something, but choosing the perfect phrase to describe the people does not define the success of your program
+
+For purposes of the framework, the word champion is used universally. 
 
 ## Overview of the Security Champion Framework
 
