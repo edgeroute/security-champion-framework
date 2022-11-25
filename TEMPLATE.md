@@ -1,10 +1,12 @@
-# Short Description
+# Name
+
+## Short Description
 Blah
 
-# Long Description
+## Long Description
 Blah
 
-# Overview
+## Overview
 
 | Level | Name | Validation |
 |:---|:---|:---|
@@ -13,35 +15,34 @@ Blah
 | Maturity 2 | Blah | Blah validation
 | Maturity 3 | Blah | Blah validation
 
-&nbsp;
-# Maturity 0 - Blah
+## Maturity 0 - Blah
 
-## Activity
+### Activity
 * Blah
   
-## Benefit
+### Benefit
 * Blah
 
-# Maturity 1 - Blah
+## Maturity 1 - Blah
 
-## Activity
+### Activity
 * Blah 
 
-## Benefit
+### Benefit
 * Blah
 
-# Maturity 2 - Blah
+## Maturity 2 - Blah
 
-## Activity
+### Activity
 * Blah
 
-## Benefit
+### Benefit
 * Blah
 
-# Maturity 3 - Blah
+## Maturity 3 - Blah
 
-## Activity
+### Activity
 * Blah
 
-## Benefit
+### Benefit
 * Blah
