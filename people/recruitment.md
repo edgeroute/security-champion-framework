@@ -4,45 +4,53 @@
 Recruitment: how are you going to find and sign-up new champions?
 
 ## Long Description
-Blah
+The job that never ends for the program leadership team is recruiting new champions.
 
 ## Overview
 
 | Level | Name | Validation |
 |:---|:---|:---|
-| Maturity 0 | None | Blah validation
-| Maturity 1 | Rag tag crew. | Blah validation
-| Maturity 2 | Mandatory assignment. | Blah validation
-| Maturity 3 | Volunteer. | Blah validation
+| Maturity 0 | None | None
+| Maturity 1 | Ragtag crew. | Review the recruitment approach and the output of the recruitment process.
+| Maturity 2 | Mandatory assignment. | Review the recruitment approach and the output of the recruitment process.
+| Maturity 3 | Volunteer. | Review the recruitment approach and the output of the recruitment process.
 
 ## Maturity 0 - No active recruitment efforts.
 
 ### Activity
-* Blah
+* Build a recruitment strategy for new champions.
   
 ### Benefit
-* None.
+* Recruitment develops a pipeline of new champions.
 
-## Maturity 1 - Rag tag crew of security passionate people.
+## Maturity 1 - Ragtag crew of security-passionate people.
+
+A ragtag crew of people describes a program where you have a core of security and passionate people that raise their hands to participate in a program.
 
 ### Activity
-* Blah 
+* Communicate the program's existence and offer a method for interested members to join. 
 
 ### Benefit
-* You have a spark – the start of a strong security community.
+* You have a spark – the start of a robust security community.
 
 ## Maturity 2 - Mandatory assignment.
 
+With a mandatory assignment, the program defines a minimum number of champions per business unit or product/application and then asks for volunteers to fill the roster.
+
 ### Activity
-* Blah
+* Define the minimum number of champions and how to split up the champion allocation.
+* Invite and register new champions.
+* Confirm that the minimum number of champions exists.
 
 ### Benefit
-* Voluntold – your numbers are growing.
+* While the voluntold method where champions participate against their will may bring in some that are not security passionate, the numbers are growing, and the distribution from across the business will be solid.
 
 ## Maturity 3 - Volunteer opt-in.
 
+The holy grail of the champion program is where potential champions chase down program leadership and ask to be a champion.
+
 ### Activity
-* Blah
+* Provide a method for volunteers to join the program.
 
 ### Benefit
 * Ideal, as people are chasing you to join your program.
