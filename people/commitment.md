@@ -4,47 +4,47 @@
 Commitment: how much time are your champions spending on security (average)?
 
 ## Long Description
-Blah
+Champion resources in most programs need to be dedicated. Champions dedicate a slice of their available time, dedicated to security.
 
 ## Overview
 
 | Level | Name | Validation |
 |:---|:---|:---|
-| Maturity 0 | None. | Blah validation
-| Maturity 1 | One. | Blah validation
-| Maturity 2 | Two to Four. | Blah validation
-| Maturity 3 | Eight. | Blah validation
+| Maturity 0 | None. | None
+| Maturity 1 | One. | Review the results of a survey of the champion population, asking them the average number of hours per week they spend on champion activities.
+| Maturity 2 | Two to Four. | Review the results of a survey of the champion population, asking them the average number of hours per week they spend on champion activities.
+| Maturity 3 | Eight. | Review the results of a survey of the champion population, asking them the average number of hours per week they spend on champion activities.
 
-## Maturity 0 - Blah
+## Maturity 0 - None
 
 ### Activity
-* Blah
+* None -- strictly a measurement sub-area.
   
 ### Benefit
-* Blah
+* There is no benefit to a program where champions spend no time.
 
-## Maturity 1 - Blah
-
-### Activity
-* Blah 
-
-### Benefit
-* Blah
-
-## Maturity 2 - Blah
+## Maturity 1 - One
 
 ### Activity
-* Blah
+* None -- strictly a measurement sub-area. 
 
 ### Benefit
-* Blah
+* One hour per month is a start.
 
-## Maturity 3 - Blah
+## Maturity 2 - Two to four
 
 ### Activity
-* Blah
+* None -- strictly a measurement sub-area.
 
 ### Benefit
-* Blah
+* Two to four hours give champions a chance to provide actionable results.
+
+## Maturity 3 - Eight or more
+
+### Activity
+* None -- strictly a measurement sub-area.
+
+### Benefit
+* Eight or more hours is the sweet spot, allowing champions to become the security expert for their functional area.
 
 \pagebreak
