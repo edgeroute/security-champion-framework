@@ -12,15 +12,15 @@ The security community is a virtual team of engaged developers, architects, soft
 
 Various names apply to the people that make up a security champion program. For example, organizations use different naming schemes for Champions, Advocates, Guild Members, Ninjas, and Agents.
 
-There is nothing in a name. Instead, call the people within your program by any of the monikers provided. Do call them something, but choosing the perfect phrase to describe the people does not define the success of your program.
+Names sometimes matter: people may define their roles by what they are called, so it is important to choose a name that fits the culture of your organization. Some names carry implications on the level of involvement and authority they are expected to have: liaisons, champions, advisors, consultants, etc. Choosing the perfect phrase or name to describe the people does **not** define the success of your program! But do give it a thought so that the label doesn't confuse the content and expectations inadvertently.
 
-For purposes of the framework, the word champion is universal. 
+For purposes of the framework, the word champion is universal.
 
 ## The need for champions
 
-Security champions are necessary because most security teams need more resources to meet security demands. The security department needs more time/energy/people to perform security for all. They have the knowledge and expertise but need scalability.
+Security champions are necessary because most security teams need to extend their resources to meet security demands. The security department needs more time/energy/people to perform security for all. They have the knowledge and expertise but need scalability.
 
-Each year, BSIMM asks their member companies how many developers and security team members they have. From BSIMM 12, the ratio was one security person to every one hundred and thirty-five developers. This ratio demonstrates the need for security champions. BSIMM members take security seriously enough to spend money on a consultant to analyze their stance. Non-BSIMM companies are likely at an even higher ratio. The higher percentage is why Security Champions are needed -- there need to be more security team members to do all the work.
+Each year, BSIMM asks their member companies how many developers and security team members they have. From BSIMM 12, the ratio was one security person to every one hundred and thirty-five developers. This ratio demonstrates the need for security champions. BSIMM members take security seriously enough to spend money on a consultant to analyze their maturity. Non-BSIMM companies are likely at an even higher ratio. The higher percentage is why Security Champions are needed -- there need to be more security team members to do all the work.
 
 ## The successful champion
 
@@ -28,11 +28,11 @@ There are four facets to the successful champion experience.
 
 First, consider foundational knowledge. Foundational is the knowledge about application security, from vocabulary to return on investment and the business case. Foundational knowledge answers the why of application security and the things everyone needs to understand.
 
-Second, a spark of passion. A spark of security passion is vital. Rather than forcing a champion to volunteer, the best case is a champion that steps forward because they have a slight interest in security. The champion program can fan that little interest into a security flame.
+Second, a spark of passion. A spark of security passion is vital. Rather than forcing a champion to volunteer, the best case is a champion that steps forward because they have some interest in security. The champion program can fan that little interest into a security flame.
 
-Third, understand/acknowledge attacks. Champions must realize the depth of modern attacks and recognize that what they build is under attack.
+Third, understand/acknowledge attacks. Champions must realize the reach of modern attacks and recognize that what they build is under attack.
 
-Fourth, utilize tools and processes. Champions must follow the defined procedures to enhance security, like Secure Development Lifecycle, and be the eyes and ears that execute and interpret the results of the tools.
+Fourth, utilize tools and processes. Champions must follow the defined procedures to enhance security, like Secure Development Lifecycle, and be the eyes and ears that execute and interpret the results of the tools. They must also participate in making the program better over time by giving feedback on tools and processes and how they fit in the organization.
 
 ## The value for the champion
 
@@ -65,7 +65,7 @@ Five high-level areas divide the framework, with one to four sub-areas within ea
 | Area | Description |
 |:---|:---|
 | Planning | Planning includes the activities needed to scope and build a strategy. |
-| People | People include recruiting, retaining, capturing commitment, and onboarding new champions. |
+| People | People includes recruiting, retaining, capturing commitment, and onboarding new champions. |
 | Marketing | Marketing includes the branding of the program and communication plans. |
 | Execution | Execution includes the program pillars, coaching, education, and globalization efforts. |
 | Measurement | Measurement includes metrics for demonstrating the value generated by the program. |
