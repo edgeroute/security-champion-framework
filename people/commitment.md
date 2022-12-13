@@ -37,7 +37,7 @@ Champion resources in most programs need to be dedicated. Champions dedicate a s
 * None -- strictly a measurement sub-area.
 
 ### Benefit
-* Two to four hours give champions a chance to provide actionable results.
+* Two to four hours per month give champions a chance to provide actionable results.
 
 ## Maturity 3 - Eight or more
 
