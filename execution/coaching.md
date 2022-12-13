@@ -1,10 +1,10 @@
 # Coaching
 
 ## Short Description
-Coaching: how will you provide consulting and one too training?
+Coaching: how will you provide consulting and one to training?
 
 ## Long Description
-Security coaches are to developers, as life coaches are to health and wellness. A solid security coach works with a developer one-on-one or one too few for a short period, assisting and teaching one area or helping to resolve one challenge. Then the security coach moves on to another set of folks to work with and help succeed.
+Security coaches are to developers, as life coaches are to health and wellness. A solid security coach works with a developer one-on-one or one to a few for a short period, assisting and teaching one area or helping to resolve one challenge. Then the security coach moves on to another set of folks to work with and help succeed.
 
 A coach could cover subjects such as threat modeling, using SAST or DAST, and advising on a tough security challenge.
 

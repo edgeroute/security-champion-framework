@@ -45,6 +45,6 @@ Champion resources in most programs need to be dedicated. Champions dedicate a s
 * None -- strictly a measurement sub-area.
 
 ### Benefit
-* Eight or more hours is the sweet spot, allowing champions to become the security expert for their functional area.
+* Eight or more hours per month is the sweet spot, allowing champions to become the security expert for their functional area.
 
 \pagebreak

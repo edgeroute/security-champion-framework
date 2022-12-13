@@ -49,6 +49,6 @@ Install local security team members in global locations that can provide local e
 * Hire new security team members to run your global champion group. Search within your global champions for candidates.
 
 ### Benefit
-* Local security team members can more easily pour into the local champions around the globe.
+* Local security team members can more easily pour into the local champions around the globe. Local security coaches understand the culture and can be more effective in coaching by accessing shared values and language.
 
 \pagebreak

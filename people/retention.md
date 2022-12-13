@@ -4,7 +4,7 @@
 Retention: how are you going to keep them coming back for more?
 
 ## Long Description
-Security champions are volunteers, and volunteers will only continue forward for the love of the game for so long. Retention is how you reward and incentivize champions to continue forward with the program.
+The best security champions are volunteers, and volunteers will only continue forward for the love of the game for so long. Retention is how you reward and incentivize champions to continue forward with the program.
 
 ## Overview
 
