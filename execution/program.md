@@ -29,6 +29,8 @@ No programmatic elements; everything is ad hoc.
 
 Monthly training is the core piece of the program. It provides an environment for learning and connection amongst the champion population.
 
+Every Champion meeting should focus on providing insight/educative material and working through whatever needs group input. Every group event is a teaching opportunity.
+
 ### Activity
 * Plan monthly meetings up to twelve months in advance, and add them to champion calendars.
 * Provide a mechanism for champions to sign up to speak at a future monthly meeting.
