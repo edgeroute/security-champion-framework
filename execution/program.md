@@ -45,6 +45,7 @@ Develop special training webinars, internal CTFs, and security days.
 * Scope and schedule special, champion-only training webinars.
 * Create internal capture-the-flag experiences only for the champions.
 * Schedule and execute security days, as champion only four or eight-hour events.
+* Have champion-only deep-dives into the security of the product and identify security debt, giving champions an opportunity to collectively strategize how to lower the debt.
 
 ### Benefit
 * Special events grow the knowledge and connection of the community.
