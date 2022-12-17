@@ -25,7 +25,13 @@ Metrics and measurements demonstrate the value that a program generates with dat
 * Without measurement, nothing ever changes.
 
 ## Maturity 1 - Basic metrics
-Basic metrics are bulk metrics -- items that count various measurable points with the champion program. For example, basic metrics include a total count of champions, business unit/product distribution, and education levels. Basic can also have champion flaw density, measuring the number of flaws created per person per one-thousand lines of code.
+Basic metrics are bulk metrics -- items that count various measurable points with the champion program. 
+
+Example basic metrics:
+* Total count of champions
+* Business unit/product distribution
+* Champion education levels
+* Champion flaw density, measuring the number of flaws created per person per one-thousand lines of code.
 
 ### Activity
 * Incorporate the basic set of metrics into the metrics plan. 

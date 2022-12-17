@@ -6,6 +6,8 @@ Recruitment: how are you going to find and sign-up new champions?
 ## Long Description
 The job that never ends for the program leadership team is recruiting new champions.
 
+While mandatory assignments and volunteers represent levels two and three, most programs will blend recruitment strategies. Successful Champion programs accept resources from wherever they are available.
+
 ## Overview
 
 | Level | Name | Validation |
