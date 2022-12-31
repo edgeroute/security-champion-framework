@@ -27,7 +27,7 @@ While mandatory assignments and volunteers represent levels two and three, most 
 
 ## Maturity 1 - Ragtag crew of security-passionate people.
 
-A ragtag crew of people describes a program where you have a core of security and passionate people that raise their hands to participate in a program.
+A ragtag crew of people describes a program where you have a core of security and passionate people that raise their hands to participate in a program. These folks are excited by security and want to add their efforts to the security mission.
 
 ### Activity
 * Communicate the program's existence and offer a method for interested members to join. 

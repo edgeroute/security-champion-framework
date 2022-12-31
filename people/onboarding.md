@@ -11,7 +11,7 @@ When a new person becomes a Security Champion, they likely have yet to learn wha
 | Level | Name | Validation |
 |:---|:---|:---|
 | Maturity 0 | No onboarding process. | Nothing to validate.
-| Maturity 1 | Individual orientation. | Review the simple onboarding process.
+| Maturity 1 | Individual orientation and basic requirements. | Review the simple onboarding process.
 | Maturity 2 | Team-focused orientation and buddy system. | Review the training materials and the champion buddy system.
 | Maturity 3 | Certified Security Champion. | Review the certification process, and discuss the value generated with a selection of certified Champions.
 
@@ -23,23 +23,26 @@ When a new person becomes a Security Champion, they likely have yet to learn wha
 ### Benefit
 * An onboarding process sets champions up for success from day one.
 
-## Maturity 1 - Individual orientation.
+## Maturity 1 - Individual orientation and basic requirements.
 
 ### Activity
+* Create a set of requirements that Champions must meet or comply with within a specified time.
 * Develop an individual orientation agenda and set of content.
 * Deliver the individual champion orientation on a set schedule throughout the year. 
 
 ### Benefit
 * The individual orientation sets expectations for new champions and points them to where they can get more help.
 
-## Maturity 2 - Team-focused orientation and champion buddy system.
+## Maturity 2 - Team-focused orientation, champion buddy system, and manager approval.
 
 ### Activity
 * Develop a team-focused orientation to deliver to entire new teams of champions for a business unit.
 * Assign a new champion buddy system, pairing experienced champions with new champions. Encourage champion buddies to meet weekly for the first month, bi-weekly for the second month, and then once in the third month.
+* Provide a mechanism for managers to approve the champion commitment.
 
 ### Benefit
 * Providing orientation for champions within a business unit allows the new champions to forge relationships within their functional area.
+* When managers approve the champion commitment, they will support the champion throughout their time with the program.
 
 ## Maturity 3 - Certified Security Champion.
 
