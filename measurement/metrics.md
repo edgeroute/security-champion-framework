@@ -11,9 +11,9 @@ Metrics and measurements demonstrate the value that a program generates with dat
 | Level | Name | Validation |
 |:---|:---|:---|
 | Maturity 0 | No metrics. | None.
-| Maturity 1 | Basic metrics. | Review the metric plan and test the data used to generate metrics.
-| Maturity 2 | Intermediate metrics and dashboards. | Review the metric plan and test the data used to generate metrics.
-| Maturity 3 | Action-based metrics. | Review the metric plan and test the data used to generate metrics.
+| Maturity 1 | Basic metrics. | Visual inspection -- review the metric plan and the metric data.
+| Maturity 2 | Intermediate metrics and dashboards. | Visual inspection and survey -- review the metric plan and the metric data. Add a question to the survey for scNPS.
+| Maturity 3 | Action-based metrics. | Visual inspection -- review the metric plan and the metric data.
 
 ## Maturity 0 - No metrics
 
