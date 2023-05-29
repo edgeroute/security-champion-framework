@@ -11,9 +11,9 @@ The best security champions are volunteers, and volunteers will only continue fo
 | Level | Name | Validation |
 |:---|:---|:---|
 | Maturity 0 | No retention efforts. | None
-| Maturity 1 | Simple retention efforts. | Review the retention plan and spot-check the retention items.
-| Maturity 2 | Existing rewards and recognition. | Review the retention plan and spot-check the retention items.
-| Maturity 3 | Specific budget for Champions. | Review the retention plan and spot-check the retention items.
+| Maturity 1 | Simple retention efforts. | Survey the Champion population, and ask what rewards and retention efforts they have experienced.
+| Maturity 2 | Existing rewards and recognition. | Survey the Champion population, and ask what rewards and retention efforts they have experienced.
+| Maturity 3 | Specific budget for Champions. | Survey the Champion population, and ask what rewards and retention efforts they have experienced.
 
 ## Maturity 0 - No retention efforts
 No retention efforts.
