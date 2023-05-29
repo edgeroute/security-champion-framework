@@ -11,9 +11,9 @@ The program is the core component of the effort. The program includes all the pi
 | Level | Name | Validation |
 |:---|:---|:---|
 | Maturity 0 | Nothing. | None
-| Maturity 1 | Monthly training. | Review the recent and future monthly training meetings, and review participation statistics.
-| Maturity 2 | Special events. | Review the list of special events and meet with a cross-section of champions to understand the events' value.
-| Maturity 3 | Deep effort. | Review the list of deep events and meet with a cross-section of champions to understand the value the events provide.
+| Maturity 1 | Monthly training. | Visual inspection and survey -- review the recent and future monthly training meetings, and review participation statistics, and ask Champions what they have experienced.
+| Maturity 2 | Special events. | Visual inspection and ad hoc interviews -- review the list of special events and meet with a cross-section of champions to understand the events' value.
+| Maturity 3 | Deep effort. | Visual inspection and ad hoc interviews -- review the list of deep events and meet with a cross-section of champions to understand the value the events provide.
 
 ## Maturity 0 - Nothing
 
