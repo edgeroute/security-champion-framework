@@ -11,9 +11,9 @@ Globalization is a hurdle that you must clear as you build up your program. Most
 | Level | Name | Validation |
 |:---|:---|:---|
 | Maturity 0 | No consideration for globalization. | Nothing
-| Maturity 1 | Comfortable schedule. | Review the meeting schedule, and confirm that meetings are in a reasonable time zone for global citizens.
-| Maturity 2 | Local events across the globe. | Review the meeting schedule, and confirm that there are separate events across the globe. Attend a global event to confirm its format and popularity.
-| Maturity 3 | Boots on the ground. | Meet with the local security champion team members around the globe and confirm their scope and efforts.
+| Maturity 1 | Comfortable schedule. | Visual inspection and survey -- review the meeting schedule, and confirm that meetings are in a reasonable time zone for global citizens. Add a question to the survey about globalization of Champions.
+| Maturity 2 | Local events across the globe. | Visual inspection and survey -- review the meeting schedule, and confirm that there are separate events across the globe. Attend a global event to confirm its format and popularity.
+| Maturity 3 | Boots on the ground. | Visual inspection and survey -- meet with the local security champion team members around the globe and confirm their scope and efforts.
 
 ## Maturity 0 - No consideration
 There needs to be a consideration for different parts of the globe.
