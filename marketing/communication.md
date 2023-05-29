@@ -11,9 +11,9 @@ Communication is critical, and the organization needs to stay abreast with all t
 | Level | Name | Validation |
 |:---|:---|:---|
 | Maturity 0 | No communication. | Nothing to validate.
-| Maturity 1 | Champions only. | Review the communication plan, scope of communication, and communication examples.
-| Maturity 2 | Direct Managers. | Review the communication plan, scope of communication, and communication examples.
-| Maturity 3 | Executives. | Review the communication plan, scope of communication, and communication examples.
+| Maturity 1 | Champions only. | Visual inspection and survey -- review the communication plan, scope of communication, and communication examples, and survey Champions about effectiveness of communication.
+| Maturity 2 | Direct Managers. | Visual inspection and ad hoc interview -- review the communication plan, scope of communication, and communication examples.
+| Maturity 3 | Executives. | Visual inspection and ad hoc interview -- review the communication plan, scope of communication, and communication examples.
 
 ## Maturity 0 - No communication
 
