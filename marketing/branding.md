@@ -11,9 +11,9 @@ Branding generates words or pictures that everyone inside the company will assoc
 | Level | Name | Validation |
 |:---|:---|:---|
 | Maturity 0 | No branding efforts. | None
-| Maturity 1 | Name and tagline. | Visual inspectinon -- review and confirm that the name and slogan exist and are in use.
-| Maturity 2 | Logo and mascot. | Visual inspectinon -- review and ensure that the logo and mascot exist and are in use.
-| Maturity 3 | SWAG | Visual inspectinon -- review the available SWAG and the distribution policy for champions.
+| Maturity 1 | Name and tagline. | Visual inspection -- review and confirm that the name and slogan exist and are in use.
+| Maturity 2 | Logo and mascot. | Visual inspection -- review and ensure that the logo and mascot exist and are in use.
+| Maturity 3 | SWAG | Visual inspection -- review the available SWAG and the distribution policy for champions.
 
 ## Maturity 0 - No branding efforts
 No branding occurs.
