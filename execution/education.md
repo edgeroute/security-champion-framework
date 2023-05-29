@@ -14,7 +14,7 @@ Security education consists of different modalities. The two most popular approa
 |:---|:---|:---|
 | Maturity 0 | No Security Education. | Nothing to validate.
 | Maturity 1 | Ad hoc security training. | Visual inspection -- review training plans, feedback, and metrics/records of training.
-| Maturity 2 | Regular training. | Visual inspection -- review training plans, feedback, and metrics/records of training.
+| Maturity 2 | Regular training. | Visual inspection -- review training plans, feedback, metrics/records of training, and survey population.
 | Maturity 3 | Creative training. | Visual inspection and ad hoc interviews -- review training plans, feedback; interview a cross-section of those trained, and metrics/records of training.
 
 ## Maturity 0 - No security education.
