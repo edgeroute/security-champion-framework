@@ -42,6 +42,7 @@ Regular security training for all champions sets the baseline of knowledge for a
 ### Activity
 * Evaluate various training offerings, and choose a solution that fits your budget and will touch all the developers.
 * Choose a training offering and build a programmatic approach to roll it out.
+* Generate metrics for training completion, per Champion.
 
 ### Benefit
 * Spreading education across the community provides base levels of knowledge and experience.
