@@ -11,9 +11,9 @@ The Strategy sets the tone for your Security Champions program, identifying the 
 | Level | Name | Validation |
 |:---|:---|:---|
 | Maturity 0 | No program | Nothing to validate
-| Maturity 1 | Program objective | Review the program objective and determine if it is clear.
-| Maturity 2 | Yearly goals, program vision, and an acceptance/tracking tool. | Review the goals and vision and test the tool.
-| Maturity 3 | Executive Sponsor buy-in. | Meet with the Executive Sponsor and confirm what buy-in means in their words.
+| Maturity 1 | Program objective | Visual inspection -- review the program objective and determine if it is clear.
+| Maturity 2 | Yearly goals, program vision, and an acceptance/tracking tool. | Visual inspection -- review the goals and vision and test the tool.
+| Maturity 3 | Executive Sponsor buy-in. | Interview -- meet with the Executive Sponsor and confirm what buy-in means in their words.
 
 ## Maturity 0 - No Program
 
