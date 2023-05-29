@@ -10,10 +10,10 @@ Scope measures the depth of the program within the organization. The deeper the 
 
 | Level | Name | Validation |
 |:---|:---|:---|
-| Maturity 0 | Developers only | Review the scope of the champion program and speak with members of the target group.
-| Maturity 1 | Product adjacent (SCRUM, SRE, DevOps, Cloud) | Review the scope of the champion program, and speak with members of the target group.
-| Maturity 2 | Product managers | Review the scope of the champion program and speak with target group members.
-| Maturity 3 | Executives and Managers | Review the scope of the champion program, and speak with members of the target group.
+| Maturity 0 | Developers only | Survey the Champion population, and ask for current role.
+| Maturity 1 | Product adjacent (SCRUM, SRE, DevOps, Cloud) | Survey the Champion population, and ask for current role.
+| Maturity 2 | Product managers | Survey the Champion population, and ask for current role.
+| Maturity 3 | Executives and Managers | Survey the Champion population, and ask for current role.
 
 ## Maturity 0 - Developers only
 
