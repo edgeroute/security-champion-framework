@@ -15,9 +15,9 @@ To be a successful security coach, an individual must have a solid development b
 | Level | Name | Validation |
 |:---|:---|:---|
 | Maturity 0 | No coaching. | None.
-| Maturity 1 | Volunteer coaches. | Review the coach roster, and interview a few coaches to evaluate their efforts.
-| Maturity 2 | Staff coaches. | Review the coach roster, and interview a few coaches to evaluate their efforts.
-| Maturity 3 | Dedicated coaches. | Review the coach roster, and interview a few coaches to evaluate their efforts.
+| Maturity 1 | Volunteer coaches. | Visual inspection and survey -- review the coach roster, and interview a few coaches to evaluate their efforts, and survey population about total amount of coaching they have received in the past year.
+| Maturity 2 | Staff coaches. | Visual inspection -- review the coach roster, and interview a few coaches to evaluate their efforts.
+| Maturity 3 | Dedicated coaches. | Visual inspection -- review the coach roster, and interview a few coaches to evaluate their efforts.
 
 ## Maturity 0 - No coaching
 
